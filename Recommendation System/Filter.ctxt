@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Filter
+comment0.text=\r\n\ Write\ a\ description\ of\ Filter\ here.\r\n\ \r\n\ @author\ (Mahmoud\ Alim)\ \r\n\ @version\ (26/9/2020)\r\n
+comment1.params=id
+comment1.target=boolean\ satisfies(java.lang.String)
+numComments=2
